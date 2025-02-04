@@ -3,7 +3,7 @@
 💻 **A creative and enthusiastic programmer, always eager to learn new skills and adapt to evolving technologies.**  
 
 📍 **NIT Jalandhar** | 🌍 **Jalandhar, India**  
-🔗 [Portfolio](https://nsde.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/nadeem-akhtar)  📝 [Medium](https://medium.com/@19bcs052) | 📊 [Kaggle](https://www.kaggle.com/mdnadeemakhtar)  
+🔗 [Portfolio](https://nsde.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/nadeem-akhtar)  | 📊 [Kaggle](https://www.kaggle.com/mdnadeemakhtar)  
 
 ---
 
@@ -44,11 +44,8 @@
 ---
 
 ## 📫 Let's Connect!  
-💼 **LinkedIn**: [in/nadeem-akhtar](https://www.linkedin.com/in/nadeem-akhtar)  
-📝 **Medium**: [Portfolio](https://nsde.netlify.app/) 
-📊 **Kaggle**: [mdnadeemakhtar](https://www.kaggle.com/mdnadeemakhtar)  
-📝 **Medium**: [@19bcs052](https://medium.com/@19bcs052)  
-
+💼 [LinkedIn](https://www.linkedin.com/in/nadeem-akhtar)  
+📝 [Portfolio](https://nsde.netlify.app/) 
 ---
 
 🚀 *Code. Create. Innovate!* ✨  
