@@ -3,7 +3,7 @@
 💻 **A creative and enthusiastic programmer, always eager to learn new skills and adapt to evolving technologies.**  
 
 📍 **NIT Jalandhar** | 🌍 **Jalandhar, India**  
-🔗 [Portfolio](https://nsde.netlify.app/) | 📝 [Medium](https://medium.com/@19bcs052) | 📊 [Kaggle](https://www.kaggle.com/mdnadeemakhtar)  
+🔗 [Portfolio](https://nsde.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/nadeem-akhtar)  📝 [Medium](https://medium.com/@19bcs052) | 📊 [Kaggle](https://www.kaggle.com/mdnadeemakhtar)  
 
 ---
 
@@ -38,7 +38,6 @@
 
 ## 🏆 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=NadeemAkhtar1947&show_icons=true&theme=radical" width="49%">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeemAkhtar1947&theme=dark" width="49%">  
 
 🌱 *Always learning, building, and growing!*  
 
@@ -46,6 +45,7 @@
 
 ## 📫 Let's Connect!  
 💼 **LinkedIn**: [in/nadeem-akhtar](https://www.linkedin.com/in/nadeem-akhtar)  
+📝 **Medium**: [Portfolio](https://nsde.netlify.app/) 
 📊 **Kaggle**: [mdnadeemakhtar](https://www.kaggle.com/mdnadeemakhtar)  
 📝 **Medium**: [@19bcs052](https://medium.com/@19bcs052)  
 
